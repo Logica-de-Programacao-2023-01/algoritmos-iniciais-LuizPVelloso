@@ -4,8 +4,8 @@ números.
 
 1 Leia x
 2 Leia y
-3 Faça x+y
-4 Escreva x+y
+3 resultado = x+y
+4 Escreva "O resultado da soma de" x "e" y "é" resultado
 5 Fim
 
 
