@@ -1,0 +1,10 @@
+Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
+
+1 Ler lista de números
+2 soma = 0
+3 para cada número da lista faça 
+4 adicionar numero da lista a soma
+5 media da lista de números = soma/nº ne numeros da lista
+6 escreva media da lista de números "é a media da lista"
+7 fim
+
